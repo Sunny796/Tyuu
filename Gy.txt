@@ -1,0 +1,2 @@
+hysteria2://d5938187-aca6-4f0f-baf3-ff77a023e17f@107.174.52.160:45565?peer=us1.xjichang.buzz&insecure=1&obfs=none#%E7%BE%8E%E5%9B%BD01
+hysteria2://d5938187-aca6-4f0f-baf3-ff77a023e17f@213.183.53.232:45565?peer=ru1.xjichang.buzz&insecure=1&obfs=none#%E4%BF%84%E7%BD%97%E6%96%AF
